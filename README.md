@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Atul Harsh</h1>
 
 <p align="center">
-  <b>AI &amp; ML Enthusiast | Developer</b><br>
+  <b>AI, ML, DL, GenAi, Devops, AWS &amp; Flutter Enthusiast | Developer</b><br>
   <i>Turning data into insights and solutions</i>
 </p>
 
