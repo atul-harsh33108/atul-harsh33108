@@ -359,7 +359,7 @@ Cloud Computing                ███████████████░�
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:8B5CF6,100:36BCF7&height=280&section=header&text=Atul%20Harsh&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20%7C%20ML%20%7C%20GenAI%20%7C%20DevOps%20%7C%20AWS%20%Engineer&descAlignY=62&descAlign=50&descFontColor=c9d1d9&descFontSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:8B5CF6,100:36BCF7&height=280&section=header&text=Atul%20Harsh&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20%7C%20ML%20%7C%20GenAI%20%7C%20DevOps%20%7C%20AWS%20Engineer&descAlignY=62&descAlign=50&descFontColor=c9d1d9&descFontSize=20" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=AI+%7C+ML+%7C+GenAI+Developer;RAG+%7C+LLM+%7C+VectorDB+Architect;DevOps+%7C+CI%2FCD+%7C+Kubernetes+Engineer;Building+Intelligent+Data+Pipelines;Turning+Data+into+Impact+%F0%9F%9A%80;Innovating+Every+Day!" alt="Typing SVG" />
 
