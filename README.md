@@ -212,9 +212,9 @@ LSTM + Logistic Regression + Naive Bayes, containerized with **Docker** and auto
 ### 🐍 And now... the snake eats my contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atul-harsh33108/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atul-harsh33108/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/atul-harsh33108/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atul-harsh33108/atul-harsh33108/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atul-harsh33108/atul-harsh33108/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/atul-harsh33108/atul-harsh33108/output/github-snake.svg" />
 </picture>
 
 </div>
