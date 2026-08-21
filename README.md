@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:36BCF7,50:8B5CF6,100:36BCF7&height=220&text=Atul%20Harsh&fontSize=78&fontColor=ffffff&animation=blinking&desc=AI%20%7C%20ML%20%7C%20GenAI%20%7C%20MLOps%20%7C%20DevOps%20%7C%20AWS%20Engineer&descAlignY=72&descAlign=50&descFontColor=c9d1d9&descFontSize=17" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:8B5CF6,100:36BCF7&height=280&section=header&text=Atul%20Harsh&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20%7C%20ML%20%7C%20GenAI%20%7C%20MLOps%20%7C%20DevOps%20%7C%20AWS%20Engineer&descAlignY=62&descAlign=50&descFontColor=c9d1d9&descFontSize=20" alt="header banner" />
 
 <br/>
 
@@ -513,7 +513,7 @@ LSTM + Logistic Regression + Naive Bayes, containerized with **Docker** and auto
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:8B5CF6,100:36BCF7&height=150&section=footer&text=Let's+Build+Something+Amazing!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=65" alt="footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:8B5CF6,100:36BCF7&height=150&section=footer&text=Let's+Build+Something+Amazing!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65" alt="footer banner" />
 
 **🤝 Open to collaborations · 💬 Always happy to connect · 🌟 Keep innovating**
 
