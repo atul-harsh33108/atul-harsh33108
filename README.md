@@ -424,13 +424,13 @@ LSTM + Logistic Regression + Naive Bayes, containerized with **Docker** and auto
 ### 🏔️ My contributions as a 3-D pixel landscape
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-3d-contrib-night-view.svg" />
-  <img alt="3D contribution landscape" src="profile-3d-contrib/profile-3d-contrib.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atul-harsh33108/atul-harsh33108/main/profile-3d-contrib/profile-night-view.svg" />
+  <img alt="3D contribution landscape" src="https://raw.githubusercontent.com/atul-harsh33108/atul-harsh33108/main/profile-3d-contrib/profile-green.svg" />
 </picture>
 
 ### 📈 Contribution activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atul-harsh33108&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=8B5CF6&point=36BCF7" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph-nine-theta.vercel.app/graph?username=atul-harsh33108&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=8B5CF6&point=36BCF7" alt="Contribution Graph" width="100%" />
 
 </div>
 
